@@ -1,6 +1,13 @@
+
+
 # 🌐 Personal Portfolio Website – Jiawei (Jacinta) Qi
 
 This is my personal portfolio website, built with **Next.js**, **React**, and **Tailwind CSS**. It showcases who I am, the projects I've worked on, and how to get in touch with me. The goal is to present a clean, responsive, and interactive site that reflects my skills and passion in data science and automation.
+
+## 🎬 Demo Video
+
+You can watch the project demo video on YouTube by clicking the image below:
+[![Watch the video](https://img.youtube.com/vi/oosz2X_vVfo/hqdefault.jpg)](https://www.youtube.com/watch?v=oosz2X_vVfo)
 
 ## ✨ Features
 
